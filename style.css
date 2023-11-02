@@ -91,7 +91,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-bg1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -208,7 +208,7 @@ body {
   margin: auto;
   font-weight: 50%;
   line-height: 2;
-  color: var(--primary);
+  color: #fff;
 }
 
 .menu .row {
@@ -216,7 +216,7 @@ body {
   flex-wrap: wrap;
   margin-top: 1rem;
   justify-content: center;
-  color: var(--primary);
+  color: #fff;
 }
 
 .menu .row .menu-card {
@@ -230,7 +230,7 @@ body {
 
 .menu .row .menu-card .menu-card-title {
   margin: 1rem auto 1rem;
-  color: var(--primary);
+  color: #fff;
 }
 
 /* Footer */
